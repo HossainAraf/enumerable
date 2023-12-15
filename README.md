@@ -26,9 +26,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-## 📖 Morse-code
+# enumerable
 
-Is as project done to create a Postgres database from a diagram.
+Is as project done to create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,7 +40,7 @@ Is as project done to create a Postgres database from a diagram.
 
 ### Key Features <a name="key-features">
 
--Decode Morse messages
+-use a module inside your class
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,13 +65,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone [https://github.com/HossainAraf/morse-code/]
+- git clone [https://github.com/HossainAraf/enumerable]
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/HossainAraf/morse-code/
+  git clone https://github.com/HossainAraf/enumerable
 
 ```
 
@@ -101,10 +101,6 @@ Must-Install-Project-with-the-Following-Programmes:
 - GitHub: [https://github.com/HossainAraf]
 - LinkedIn: [https://www.linkedin.com/in/md-arafat-hossain-111403275/]
 
-## 🔭 Future Features <a name="future-features"></a>
-
--Connent with database
-- Adding more functionality to the app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
